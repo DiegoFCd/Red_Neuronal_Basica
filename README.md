@@ -1,5 +1,5 @@
 # Red_Neuronal_Basica
-Red Neuronal Básica con Capas Ocultas que convierte Millas a Km usando: Colab , Keras, Tesorflow.
+# Red Neuronal Básica con Capas Ocultas que convierte Millas a Km usando: Colab , Keras, Tesorflow.
 
 
 # Captura del modelo prediciendo acompañada de una imagen del Conversor de Google
